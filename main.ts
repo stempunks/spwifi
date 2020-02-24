@@ -20,7 +20,7 @@ enum Newline {
 /**
  * WiFi:bit commands.
  */
-//% color=#000000 weight=90 icon="\uf1eb" block="STEM Punks WiFi Test Unit"
+//% color=#000000 weight=90 icon="\uf1eb" block="STEM Punks WiFi"
 namespace WiFiBit {
 
     function writeToSerial(data: string, waitTime: number): void {
